@@ -372,6 +372,526 @@
       "lda": 850,
       "surface": "grass",
       "group": 8
+    },
+    {
+      "ident": "NZNS 02",
+      "heading": 20,
+      "elev": 16,
+      "slope": 0,
+      "tora": 1346,
+      "lda": 1346,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZNS 20",
+      "heading": 200,
+      "elev": 16,
+      "slope": 0,
+      "tora": 1346,
+      "lda": 1346,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZNS 02",
+      "heading": 20,
+      "elev": 16,
+      "slope": 0.13,
+      "tora": 540,
+      "lda": 540,
+      "surface": "grass",
+      "group": 3
+    },
+    {
+      "ident": "NZNS 20",
+      "heading": 200,
+      "elev": 16,
+      "slope": -0.13,
+      "tora": 540,
+      "lda": 540,
+      "surface": "grass",
+      "group": 3
+    },
+    {
+      "ident": "NZNS 06",
+      "heading": 60,
+      "elev": 16,
+      "slope": 0,
+      "tora": 482,
+      "lda": 482,
+      "surface": "grass",
+      "group": 3
+    },
+    {
+      "ident": "NZNS 24",
+      "heading": 240,
+      "elev": 16,
+      "slope": 0,
+      "tora": 482,
+      "lda": 482,
+      "surface": "grass",
+      "group": 3
+    },
+    {
+      "ident": "NZOM 01",
+      "heading": 10,
+      "elev": 100,
+      "slope": 0,
+      "tora": 1003,
+      "lda": 1003,
+      "surface": "grass",
+      "group": 8
+    },
+    {
+      "ident": "NZOM 19",
+      "heading": 190,
+      "elev": 100,
+      "slope": 0,
+      "tora": 1003,
+      "lda": 971,
+      "surface": "grass",
+      "group": 8
+    },
+    {
+      "ident": "NZOM 07",
+      "heading": 70,
+      "elev": 100,
+      "slope": 0,
+      "tora": 691,
+      "lda": 691,
+      "surface": "grass",
+      "group": 5
+    },
+    {
+      "ident": "NZOM 25",
+      "heading": 250,
+      "elev": 100,
+      "slope": 0,
+      "tora": 691,
+      "lda": 691,
+      "surface": "grass",
+      "group": 5
+    },
+    {
+      "ident": "NZOM 12",
+      "heading": 120,
+      "elev": 100,
+      "slope": 0,
+      "tora": 999,
+      "lda": 999,
+      "surface": "grass",
+      "group": 8
+    },
+    {
+      "ident": "NZOM 30",
+      "heading": 300,
+      "elev": 100,
+      "slope": 0,
+      "tora": 999,
+      "lda": 999,
+      "surface": "grass",
+      "group": 8
+    },
+    {
+      "ident": "NZPM 07",
+      "heading": 70,
+      "elev": 151,
+      "slope": 0.49,
+      "tora": 1902,
+      "lda": 1763,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZPM 25",
+      "heading": 250,
+      "elev": 151,
+      "slope": -0.49,
+      "tora": 1902,
+      "lda": 1822,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZPM 07",
+      "heading": 70,
+      "elev": 151,
+      "slope": 0.81,
+      "tora": 605,
+      "lda": 605,
+      "surface": "grass",
+      "group": 4
+    },
+    {
+      "ident": "NZPM 25",
+      "heading": 250,
+      "elev": 151,
+      "slope": -0.81,
+      "tora": 605,
+      "lda": 605,
+      "surface": "grass",
+      "group": 4
+    },
+    {
+      "ident": "NZMK 02",
+      "heading": 20,
+      "elev": 38,
+      "slope": -0.22,
+      "tora": 811,
+      "lda": 743,
+      "surface": "paved",
+      "group": 5
+    },
+    {
+      "ident": "NZMK 20",
+      "heading": 200,
+      "elev": 38,
+      "slope": 0.22,
+      "tora": 781,
+      "lda": 689,
+      "surface": "paved",
+      "group": 5
+    },
+    {
+      "ident": "NZMK 02",
+      "heading": 20,
+      "elev": 38,
+      "slope": -0.22,
+      "tora": 733,
+      "lda": 695,
+      "surface": "grass",
+      "group": 5
+    },
+    {
+      "ident": "NZMK 20",
+      "heading": 200,
+      "elev": 38,
+      "slope": 0.22,
+      "tora": 733,
+      "lda": 694,
+      "surface": "grass",
+      "group": 5
+    },
+    {
+      "ident": "NZKI 05",
+      "heading": 50,
+      "elev": 19,
+      "slope": 0,
+      "tora": 700,
+      "lda": 700,
+      "surface": "paved",
+      "group": 4
+    },
+    {
+      "ident": "NZKI 23",
+      "heading": 230,
+      "elev": 19,
+      "slope": 0,
+      "tora": 700,
+      "lda": 700,
+      "surface": "paved",
+      "group": 4
+    },
+    {
+      "ident": "NZKI 05",
+      "heading": 50,
+      "elev": 19,
+      "slope": 0,
+      "tora": 615,
+      "lda": 615,
+      "surface": "grass",
+      "group": 4
+    },
+    {
+      "ident": "NZKI 23",
+      "heading": 230,
+      "elev": 19,
+      "slope": 0,
+      "tora": 615,
+      "lda": 615,
+      "surface": "grass",
+      "group": 4
+    },
+    {
+      "ident": "NZCL 15",
+      "heading": 150,
+      "elev": 20,
+      "slope": 0,
+      "tora": 800,
+      "lda": 750,
+      "surface": "grass",
+      "group": 6
+    },
+    {
+      "ident": "NZCL 33",
+      "heading": 330,
+      "elev": 20,
+      "slope": 0,
+      "tora": 800,
+      "lda": 750,
+      "surface": "grass",
+      "group": 6
+    },
+    {
+      "ident": "NZOT 16",
+      "heading": 160,
+      "elev": 100,
+      "slope": 0.73,
+      "tora": 730,
+      "lda": 730,
+      "surface": "grass",
+      "group": 5
+    },
+    {
+      "ident": "NZOT 34",
+      "heading": 340,
+      "elev": 100,
+      "slope": -0.73,
+      "tora": 730,
+      "lda": 730,
+      "surface": "grass",
+      "group": 5
+    },
+    {
+      "ident": "NZWU 11",
+      "heading": 110,
+      "elev": 26,
+      "slope": 0.35,
+      "tora": 1372,
+      "lda": 1372,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZWU 29",
+      "heading": 290,
+      "elev": 26,
+      "slope": -0.35,
+      "tora": 1372,
+      "lda": 1372,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZWU 08",
+      "heading": 80,
+      "elev": 26,
+      "slope": 0.75,
+      "tora": 530,
+      "lda": 530,
+      "surface": "grass",
+      "group": 3
+    },
+    {
+      "ident": "NZWU 26",
+      "heading": 260,
+      "elev": 26,
+      "slope": -0.75,
+      "tora": 530,
+      "lda": 530,
+      "surface": "grass",
+      "group": 3
+    },
+    {
+      "ident": "NZWU 11",
+      "heading": 110,
+      "elev": 26,
+      "slope": 0.35,
+      "tora": 789,
+      "lda": 789,
+      "surface": "grass",
+      "group": 6
+    },
+    {
+      "ident": "NZWU 29",
+      "heading": 290,
+      "elev": 26,
+      "slope": -0.35,
+      "tora": 789,
+      "lda": 789,
+      "surface": "grass",
+      "group": 6
+    },
+    {
+      "ident": "NZWU 14",
+      "heading": 140,
+      "elev": 26,
+      "slope": 0,
+      "tora": 700,
+      "lda": 700,
+      "surface": "grass",
+      "group": 5
+    },
+    {
+      "ident": "NZWU 32",
+      "heading": 320,
+      "elev": 26,
+      "slope": 0,
+      "tora": 700,
+      "lda": 700,
+      "surface": "grass",
+      "group": 5
+    },
+    {
+      "ident": "NZFI 10",
+      "heading": 100,
+      "elev": 214,
+      "slope": 0,
+      "tora": 1030,
+      "lda": 930,
+      "surface": "paved",
+      "group": 7
+    },
+    {
+      "ident": "NZFI 28",
+      "heading": 280,
+      "elev": 214,
+      "slope": 0,
+      "tora": 1030,
+      "lda": 1000,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZAP 17",
+      "heading": 170,
+      "elev": 1335,
+      "slope": -0.24,
+      "tora": 1386,
+      "lda": 1386,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZAP 35",
+      "heading": 350,
+      "elev": 1335,
+      "slope": 0.24,
+      "tora": 1386,
+      "lda": 1386,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZAP 10",
+      "heading": 100,
+      "elev": 1335,
+      "slope": 1.15,
+      "tora": 670,
+      "lda": 670,
+      "surface": "grass",
+      "group": 3
+    },
+    {
+      "ident": "NZAP 28",
+      "heading": 280,
+      "elev": 1335,
+      "slope": -1.15,
+      "tora": 670,
+      "lda": 670,
+      "surface": "grass",
+      "group": 3
+    },
+    {
+      "ident": "NZHS 01",
+      "heading": 10,
+      "elev": 63,
+      "slope": 0,
+      "tora": 1075,
+      "lda": 969,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZHS 19",
+      "heading": 190,
+      "elev": 63,
+      "slope": 0,
+      "tora": 1075,
+      "lda": 1075,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZHS 01",
+      "heading": 10,
+      "elev": 63,
+      "slope": 0,
+      "tora": 880,
+      "lda": 789,
+      "surface": "grass",
+      "group": 6
+    },
+    {
+      "ident": "NZHS 19",
+      "heading": 190,
+      "elev": 63,
+      "slope": 0,
+      "tora": 880,
+      "lda": 880,
+      "surface": "grass",
+      "group": 6
+    },
+    {
+      "ident": "NZHS 11",
+      "heading": 110,
+      "elev": 63,
+      "slope": 0,
+      "tora": 884,
+      "lda": 708,
+      "surface": "paved",
+      "group": 5
+    },
+    {
+      "ident": "NZHS 29",
+      "heading": 290,
+      "elev": 63,
+      "slope": 0,
+      "tora": 884,
+      "lda": 824,
+      "surface": "paved",
+      "group": 5
+    },
+    {
+      "ident": "NZDV 02",
+      "heading": 20,
+      "elev": 635,
+      "slope": 0.56,
+      "tora": 1200,
+      "lda": 1200,
+      "surface": "grass",
+      "group": 8
+    },
+    {
+      "ident": "NZDV 20",
+      "heading": 200,
+      "elev": 635,
+      "slope": -0.56,
+      "tora": 1200,
+      "lda": 1090,
+      "surface": "grass",
+      "group": 8
+    },
+    {
+      "ident": "NZDV 08",
+      "heading": 80,
+      "elev": 635,
+      "slope": -0.5,
+      "tora": 696,
+      "lda": 546,
+      "surface": "grass",
+      "group": 3
+    },
+    {
+      "ident": "NZDV 26",
+      "heading": 260,
+      "elev": 635,
+      "slope": 0.5,
+      "tora": 696,
+      "lda": 616,
+      "surface": "grass",
+      "group": 3
     }
   ]
 }
