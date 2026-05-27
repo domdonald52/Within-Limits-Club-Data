@@ -1,0 +1,377 @@
+{
+  "version": 1,
+  "club_name": "Wellington Aero Club",
+  "club_short_name": "WAC",
+  "last_updated": "2026-05-27",
+  "maintainer": "Dominic Donald",
+  "notes": "This data is provided for planning and guidance purposes. While extreme care has been taken to keep it up to date, there may be inaccuracies. The Approved Flight Manual and the AIP remain the official sources of approved data. The pilot in command is responsible for checking weight and balance, aircraft performance, and runway suitability for each flight. The author and club accept no liability for any errors, omissions, or outcomes from the use of this data.",
+  "aircraft": [
+    {
+      "reg": "ZK-WAC",
+      "type": "Piper PA-38 Tomahawk",
+      "units": "metric",
+      "empty_weight": 555.76,
+      "empty_arm": 1919.986,
+      "mtow": 757.5,
+      "mlw": 757.5,
+      "mzfw": null,
+      "fuel_kg_per_litre": 0.72,
+      "fuel_lb_per_gal": 6.01,
+      "usable_fuel": 112,
+      "fuel_total": 120,
+      "fuel_unusable": 8,
+      "fuel_arm": 1915.2,
+      "burn_rate": 25,
+      "reserve_minutes": 30,
+      "stations": [
+        {
+          "name": "Pilot + front passenger",
+          "arm": 2172,
+          "min": 0,
+          "max": 200,
+          "default": 150
+        },
+        {
+          "name": "Baggage",
+          "arm": 2920.97,
+          "min": 0,
+          "max": 45.4,
+          "default": 0
+        }
+      ],
+      "envelope": [
+        {
+          "w": 450,
+          "fwd": 1839,
+          "aft": 1994
+        },
+        {
+          "w": 757.5,
+          "fwd": 1866,
+          "aft": 1996
+        },
+        {
+          "w": 580,
+          "fwd": 1839,
+          "aft": 1994
+        }
+      ],
+      "pchart_id": "PA-38",
+      "afm_id": "PA-38",
+      "crosswind_demonstrated_kt": 15,
+      "crosswind_club_kt": null,
+      "group": 6
+    },
+    {
+      "reg": "ZK-EKE",
+      "type": "C172N",
+      "units": "metric",
+      "empty_weight": 701.27,
+      "empty_arm": 967.74,
+      "mtow": 1156.7,
+      "mlw": 1156.7,
+      "mzfw": null,
+      "fuel_kg_per_litre": 0.72,
+      "fuel_lb_per_gal": 6.01,
+      "usable_fuel": 148,
+      "fuel_total": 160,
+      "fuel_unusable": 12,
+      "fuel_arm": 1168,
+      "burn_rate": 40,
+      "reserve_minutes": 30,
+      "stations": [
+        {
+          "name": "Pilot + front pax",
+          "arm": 940,
+          "min": 0,
+          "max": 250,
+          "default": 0
+        },
+        {
+          "name": "Passengers (rear seats)",
+          "arm": 1854,
+          "min": 0,
+          "max": 246,
+          "default": 0
+        },
+        {
+          "name": "Bag Area 1",
+          "arm": 2413,
+          "min": 0,
+          "max": 54.4,
+          "default": 0
+        },
+        {
+          "name": "Bag Area 2",
+          "arm": 3124,
+          "min": 0,
+          "max": 22.7,
+          "default": 0
+        }
+      ],
+      "envelope": [
+        {
+          "w": 700,
+          "fwd": 888,
+          "aft": 1202
+        },
+        {
+          "w": 885,
+          "fwd": 888,
+          "aft": 1202
+        },
+        {
+          "w": 1156,
+          "fwd": 1042,
+          "aft": 1202
+        }
+      ],
+      "pchart_id": "C172N",
+      "afm_id": "C172N",
+      "crosswind_demonstrated_kt": 15,
+      "crosswind_club_kt": null,
+      "group": 5
+    },
+    {
+      "reg": "ZK-ELS",
+      "type": "C152A",
+      "units": "metric",
+      "empty_weight": 504.4,
+      "empty_arm": 812.8,
+      "mtow": 757,
+      "mlw": 757,
+      "mzfw": null,
+      "fuel_kg_per_litre": 0.72,
+      "fuel_lb_per_gal": 6.01,
+      "usable_fuel": 92,
+      "fuel_total": 98,
+      "fuel_unusable": 6,
+      "fuel_arm": 1065.8,
+      "burn_rate": 25,
+      "reserve_minutes": 30,
+      "stations": [
+        {
+          "name": "Pilot + front pax",
+          "arm": 990.6,
+          "min": 0,
+          "max": 200,
+          "default": 150
+        },
+        {
+          "name": "Baggage 1",
+          "arm": 1625.6,
+          "min": 0,
+          "max": 54,
+          "default": 0
+        },
+        {
+          "name": "Baggage 2",
+          "arm": 2133.6,
+          "min": 0,
+          "max": 17,
+          "default": 0
+        }
+      ],
+      "envelope": [
+        {
+          "w": 454,
+          "fwd": 787.4,
+          "aft": 927.1
+        },
+        {
+          "w": 612,
+          "fwd": 787.4,
+          "aft": 927.1
+        },
+        {
+          "w": 760,
+          "fwd": 829.3,
+          "aft": 927.1
+        }
+      ],
+      "pchart_id": "C152",
+      "afm_id": "C152",
+      "crosswind_demonstrated_kt": 12,
+      "crosswind_club_kt": null,
+      "group": 4
+    },
+    {
+      "reg": "ZK-EQX",
+      "type": "Piper PA-38 Tomahawk",
+      "units": "metric",
+      "empty_weight": 543.903,
+      "empty_arm": 1908.81,
+      "mtow": 757.5,
+      "mlw": 757.5,
+      "mzfw": null,
+      "fuel_kg_per_litre": 0.72,
+      "fuel_lb_per_gal": 6.01,
+      "usable_fuel": 112,
+      "fuel_total": 120,
+      "fuel_unusable": 8,
+      "fuel_arm": 1915.2,
+      "burn_rate": 25,
+      "reserve_minutes": 30,
+      "stations": [
+        {
+          "name": "Pilot + front passenger",
+          "arm": 2172,
+          "min": 0,
+          "max": 200,
+          "default": 150
+        },
+        {
+          "name": "Baggage",
+          "arm": 2920.97,
+          "min": 0,
+          "max": 45.4,
+          "default": 0
+        }
+      ],
+      "envelope": [
+        {
+          "w": 450,
+          "fwd": 1839,
+          "aft": 1994
+        },
+        {
+          "w": 757.5,
+          "fwd": 1866,
+          "aft": 1996
+        },
+        {
+          "w": 580,
+          "fwd": 1839,
+          "aft": 1994
+        }
+      ],
+      "pchart_id": "PA-38",
+      "afm_id": "PA-38",
+      "crosswind_demonstrated_kt": 15,
+      "crosswind_club_kt": null,
+      "group": 6
+    }
+  ],
+  "runways": [
+    {
+      "ident": "NZWN 16",
+      "heading": 160,
+      "elev": 41,
+      "slope": -0.26,
+      "tora": 1947,
+      "lda": 1947,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZWN 34",
+      "heading": 340,
+      "elev": 41,
+      "slope": 0.26,
+      "tora": 1947,
+      "lda": 1947,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZPP 34",
+      "heading": 340,
+      "elev": 19,
+      "slope": 0.05,
+      "tora": 1287,
+      "lda": 1187,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZPP 16",
+      "heading": 160,
+      "elev": 19,
+      "slope": -0.05,
+      "tora": 1287,
+      "lda": 1042,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZPP 34",
+      "heading": 340,
+      "elev": 19,
+      "slope": 0.05,
+      "tora": 555,
+      "lda": 555,
+      "surface": "grass",
+      "group": 4
+    },
+    {
+      "ident": "NZPP 16",
+      "heading": 160,
+      "elev": 19,
+      "slope": -0.05,
+      "tora": 555,
+      "lda": 555,
+      "surface": "grass",
+      "group": 4
+    },
+    {
+      "ident": "NZWN 34 M5",
+      "heading": 340,
+      "elev": 41,
+      "slope": 0.26,
+      "tora": 984,
+      "lda": 1947,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZWN 16 M4",
+      "heading": 160,
+      "elev": 41,
+      "slope": -0.26,
+      "tora": 1159,
+      "lda": 1947,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZMS 06 Seal",
+      "heading": 60,
+      "elev": 364,
+      "slope": -0.6,
+      "tora": 1205,
+      "lda": 1205,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZMS 24 Seal",
+      "heading": 240,
+      "elev": 364,
+      "slope": 0.6,
+      "tora": 1250,
+      "lda": 1120,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZMS 06 Grass",
+      "heading": 60,
+      "elev": 364,
+      "slope": -0.6,
+      "tora": 1060,
+      "lda": 1060,
+      "surface": "grass",
+      "group": 8
+    },
+    {
+      "ident": "NZMS 24 Grass",
+      "heading": 240,
+      "elev": 364,
+      "slope": 0.6,
+      "tora": 1060,
+      "lda": 850,
+      "surface": "grass",
+      "group": 8
+    }
+  ]
+}
