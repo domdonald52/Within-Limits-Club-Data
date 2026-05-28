@@ -250,6 +250,118 @@
       "crosswind_demonstrated_kt": 15,
       "crosswind_club_kt": null,
       "group": 6
+    },
+    {
+      "reg": "ZK-TAW",
+      "type": "Piper PA-38 Tomahawk",
+      "units": "metric",
+      "empty_weight": 535.103,
+      "empty_arm": 1872.996,
+      "mtow": 757.5,
+      "mlw": 757.5,
+      "mzfw": null,
+      "fuel_kg_per_litre": 0.72,
+      "fuel_lb_per_gal": 6.01,
+      "usable_fuel": 112,
+      "fuel_total": 120,
+      "fuel_unusable": 8,
+      "fuel_arm": 1915.2,
+      "burn_rate": 25,
+      "reserve_minutes": 30,
+      "stations": [
+        {
+          "name": "Pilot + front passenger",
+          "arm": 2172,
+          "min": 0,
+          "max": 200,
+          "default": 150
+        },
+        {
+          "name": "Baggage",
+          "arm": 2920.97,
+          "min": 0,
+          "max": 45.4,
+          "default": 0
+        }
+      ],
+      "envelope": [
+        {
+          "w": 450,
+          "fwd": 1839,
+          "aft": 1994
+        },
+        {
+          "w": 757.5,
+          "fwd": 1866,
+          "aft": 1996
+        },
+        {
+          "w": 580,
+          "fwd": 1839,
+          "aft": 1994
+        }
+      ],
+      "pchart_id": "PA-38",
+      "afm_id": "PA-38",
+      "crosswind_demonstrated_kt": 15,
+      "crosswind_club_kt": null,
+      "group": 6
+    },
+    {
+      "reg": "ZK-TWR",
+      "type": "Piper PA-38 Tomahawk",
+      "units": "metric",
+      "empty_weight": 554.934,
+      "empty_arm": 1930.146,
+      "mtow": 757.5,
+      "mlw": 757.5,
+      "mzfw": null,
+      "fuel_kg_per_litre": 0.72,
+      "fuel_lb_per_gal": 6.01,
+      "usable_fuel": 112,
+      "fuel_total": 120,
+      "fuel_unusable": 8,
+      "fuel_arm": 1915.2,
+      "burn_rate": 25,
+      "reserve_minutes": 30,
+      "stations": [
+        {
+          "name": "Pilot + front passenger",
+          "arm": 2172,
+          "min": 0,
+          "max": 200,
+          "default": 150
+        },
+        {
+          "name": "Baggage",
+          "arm": 2920.97,
+          "min": 0,
+          "max": 45.4,
+          "default": 0
+        }
+      ],
+      "envelope": [
+        {
+          "w": 450,
+          "fwd": 1839,
+          "aft": 1994
+        },
+        {
+          "w": 757.5,
+          "fwd": 1866,
+          "aft": 1996
+        },
+        {
+          "w": 580,
+          "fwd": 1839,
+          "aft": 1994
+        }
+      ],
+      "pchart_id": "PA-38",
+      "afm_id": "PA-38",
+      "crosswind_demonstrated_kt": 15,
+      "crosswind_club_kt": null,
+      "group": 6
     }
   ],
   "runways": [
@@ -334,7 +446,7 @@
       "group": 8
     },
     {
-      "ident": "NZMS 06 Seal",
+      "ident": "NZMS 06",
       "heading": 60,
       "elev": 364,
       "slope": -0.6,
@@ -344,7 +456,7 @@
       "group": 8
     },
     {
-      "ident": "NZMS 24 Seal",
+      "ident": "NZMS 24",
       "heading": 240,
       "elev": 364,
       "slope": 0.6,
@@ -354,7 +466,7 @@
       "group": 8
     },
     {
-      "ident": "NZMS 06 Grass",
+      "ident": "NZMS 06",
       "heading": 60,
       "elev": 364,
       "slope": -0.6,
@@ -364,7 +476,7 @@
       "group": 8
     },
     {
-      "ident": "NZMS 24 Grass",
+      "ident": "NZMS 24",
       "heading": 240,
       "elev": 364,
       "slope": 0.6,
@@ -892,6 +1004,206 @@
       "lda": 616,
       "surface": "grass",
       "group": 3
+    },
+    {
+      "ident": "NZLE 11",
+      "heading": 110,
+      "elev": 1709,
+      "slope": 0.43,
+      "tora": 1540,
+      "lda": 1540,
+      "surface": "grass",
+      "group": 8
+    },
+    {
+      "ident": "NZLE 29",
+      "heading": 110,
+      "elev": 1709,
+      "slope": -0.43,
+      "tora": 1540,
+      "lda": 1540,
+      "surface": "grass",
+      "group": 8
+    },
+    {
+      "ident": "NZCH 02",
+      "heading": 20,
+      "elev": 123,
+      "slope": -0.28,
+      "tora": 3288,
+      "lda": 3288,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZCH 20",
+      "heading": 200,
+      "elev": 123,
+      "slope": 0.28,
+      "tora": 3288,
+      "lda": 3288,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZCH 02",
+      "heading": 20,
+      "elev": 123,
+      "slope": 0,
+      "tora": 515,
+      "lda": 515,
+      "surface": "grass",
+      "group": 3
+    },
+    {
+      "ident": "NZCH 20",
+      "heading": 200,
+      "elev": 123,
+      "slope": 0,
+      "tora": 515,
+      "lda": 515,
+      "surface": "grass",
+      "group": 3
+    },
+    {
+      "ident": "NZCH 11",
+      "heading": 110,
+      "elev": 123,
+      "slope": -0.35,
+      "tora": 1741,
+      "lda": 1741,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZCH 29",
+      "heading": 290,
+      "elev": 123,
+      "slope": 0.35,
+      "tora": 1741,
+      "lda": 1741,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZNR 07",
+      "heading": 70,
+      "elev": 6,
+      "slope": 0,
+      "tora": 1199,
+      "lda": 1199,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZNR 25",
+      "heading": 250,
+      "elev": 6,
+      "slope": 0,
+      "tora": 1199,
+      "lda": 1199,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZNR 16",
+      "heading": 160,
+      "elev": 6,
+      "slope": 0,
+      "tora": 1750,
+      "lda": 1750,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZNR 34",
+      "heading": 340,
+      "elev": 6,
+      "slope": 0,
+      "tora": 1750,
+      "lda": 1750,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZNR 16",
+      "heading": 160,
+      "elev": 6,
+      "slope": 0,
+      "tora": 766,
+      "lda": 766,
+      "surface": "grass",
+      "group": 6
+    },
+    {
+      "ident": "NZNR 34",
+      "heading": 340,
+      "elev": 6,
+      "slope": 0,
+      "tora": 766,
+      "lda": 766,
+      "surface": "grass",
+      "group": 6
+    },
+    {
+      "ident": "NZNP 05",
+      "heading": 50,
+      "elev": 97,
+      "slope": -0.35,
+      "tora": 1310,
+      "lda": 1310,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZNP 23",
+      "heading": 230,
+      "elev": 97,
+      "slope": 0.35,
+      "tora": 1310,
+      "lda": 1310,
+      "surface": "paved",
+      "group": 8
+    },
+    {
+      "ident": "NZNP 05",
+      "heading": 50,
+      "elev": 97,
+      "slope": 0.4,
+      "tora": 1000,
+      "lda": 1000,
+      "surface": "grass",
+      "group": 5
+    },
+    {
+      "ident": "NZNP 23",
+      "heading": 230,
+      "elev": 97,
+      "slope": -0.4,
+      "tora": 1000,
+      "lda": 1000,
+      "surface": "grass",
+      "group": 5
+    },
+    {
+      "ident": "NZNP 14",
+      "heading": 140,
+      "elev": 97,
+      "slope": 0.6,
+      "tora": 1200,
+      "lda": 1200,
+      "surface": "grass",
+      "group": 8
+    },
+    {
+      "ident": "NZNP 32",
+      "heading": 320,
+      "elev": 97,
+      "slope": -0.6,
+      "tora": 1200,
+      "lda": 1200,
+      "surface": "grass",
+      "group": 8
     }
   ]
 }
